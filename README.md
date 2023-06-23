@@ -13,4 +13,5 @@ https://public.tableau.com/app/profile/marcia.back/viz/StarbucksTheCoffeEmpire/d
 Database available on the Kaggle website:
 https://www.kaggle.com/datasets/omarsobhy14/starbucks-store-location-2023
 
-![image](https://github.com/marciaback/the_coffe_empire/assets/45545675/a6582faf-b236-4f48-be86-3ae4cbd4ccb4)
+![image](https://github.com/marciaback/tableau_the_coffee_empire/assets/45545675/10af0206-2e73-4e7a-bf11-fade145c30a8)
+
